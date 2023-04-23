@@ -1,0 +1,68 @@
+/* Reset default padding and margin */
+body, h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set background color and text color */
+body {
+    background-color: #121212;
+    color: #f8f9fa;
+}
+
+/* Add some padding to the body */
+body {
+    padding: 30px;
+}
+
+/* Center align page content */
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Set custom font size and add text shadow */
+h1, h2, h3, h4, h5, h6, p {
+    font-size: 18px;
+    text-shadow: 1px 1px #f8e8b2;
+}
+
+/* Set custom background color, padding, and margin for buttons */
+.btn {
+    background-color: #007bff;
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+/* Set custom background color, padding, and margin for input forms */
+.form-control {
+    background-color: #333;
+    color: #f8f9fa;
+    padding: 10px;
+    margin: 5px;
+}
+
+/* Set custom hover and focus styles for input forms */
+.form-control:hover, .form-control:focus {
+    background-color: #444;
+    color: #f8f9fa;
+    outline: none;
+}
+
+/* Set custom background color, padding, and margin for textarea forms */
+textarea.form-control {
+    background-color: #333;
+    color: #f8f9fa;
+    padding: 10px;
+    margin: 5px;
+}
+
+/* Set custom hover and focus styles for textarea forms */
+textarea.form-control:hover, textarea.form-control:focus {
+    background-color: #444;
+    color: #f8f9fa;
+    outline: none;
+}
