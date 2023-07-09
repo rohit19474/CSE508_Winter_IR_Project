@@ -1,7 +1,7 @@
 [PLEASE REFER TO THE REPORT FOR MORE DETAILED INFORMATION ON THE PROJECT]
 Text Summarization Model
 
-Guide: Prof. Rajiv Ratn Shah
+
 
 ➢ Developed a system that can automatically generate accurate and diverse summaries for articles.
 
