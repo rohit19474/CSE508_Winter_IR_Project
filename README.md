@@ -1,6 +1,9 @@
 Text Summarization Model
+
 Guide: Prof. Rajiv Ratn Shah
+
 ➢ Developed a system that can automatically generate accurate and diverse summaries for articles.
+
 ➢ Transformers using the pre-trained models from Hugging Face have been used. Backend’s been done using Flask and frontend using Bootstrap and vanilla JS.
 
 Webpage image samples:
