@@ -1,3 +1,4 @@
+[PLEASE REFER TO THE REPORT FOR MORE DETAILED INFORMATION ON THE PROJECT]
 Text Summarization Model
 
 Guide: Prof. Rajiv Ratn Shah
